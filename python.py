@@ -6,3 +6,9 @@ for i in range(5):
 
 for j in range(1):
     print("ajay")
+
+i=0
+while i<1:
+    print("ajay")
+    i+=1
+    
